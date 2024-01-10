@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mateus de Paula! Welcome!
 
-- 👀 I’m interested in evolve my knowledge em Backend!
+- 👀 I’m interested in evolve my knowledge in Backend development!
 - 🌱 I’m currently learning **Java**!
 - 📫 You can reach me on [LinkedIn](www.linkedin.com/in/mtsdepaula)
 
